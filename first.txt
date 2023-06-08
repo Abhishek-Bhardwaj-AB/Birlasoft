@@ -1,0 +1,13 @@
+This is first Line HTML CSS GIT
+
+Git Commands: 
+
+git init --- to initalize the git local repo
+git remote add origin <url> --- to connect the remote repo and local repo
+git status ------ to check the status of the file
+git add --
+git commit - m "message"
+git push origin master
+
+
+https://github.com/Abhishek-Bhardwaj-AB/Birlasoft.git
